@@ -1,0 +1,6 @@
+framework module Pods_LocalizeApp {
+  umbrella header "Pods-LocalizeApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

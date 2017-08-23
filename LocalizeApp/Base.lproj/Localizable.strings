@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizeApp
+
+  Created by shahrukh on 8/23/17.
+  Copyright © 2017 shahrukh. All rights reserved.
+*/
+
+"message" = "Thanks for using this app.";

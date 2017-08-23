@@ -1,0 +1,12 @@
+PODS:
+  - IBLocalizable (1.1.0)
+
+DEPENDENCIES:
+  - IBLocalizable
+
+SPEC CHECKSUMS:
+  IBLocalizable: 6908d319593ac61d294a4dc704a11def6aa3e1fb
+
+PODFILE CHECKSUM: e9b3c2b01dced30962e8c1ece0f76c7cac8e335d
+
+COCOAPODS: 1.2.1
